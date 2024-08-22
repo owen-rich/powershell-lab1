@@ -1,0 +1,3 @@
+Firstname,Lastname,Domain,SAM,OU,Password,Department
+,,,,,,
+John,Snow,Cyber.local,John,"OU=Sales,DC=Cyber,DC=local",Pa$$w0rd,Sales
